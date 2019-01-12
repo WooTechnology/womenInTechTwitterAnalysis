@@ -17,5 +17,5 @@ Which fields have a good split vs which fields do not?
 
 What companies do these people work in and how is the gender split?
 
-## Project by: Ambika and Adityah
+## Project by:- Ambika and Adityah
 ## Mentor - Pranjal Rastogi
