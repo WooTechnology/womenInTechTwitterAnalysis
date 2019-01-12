@@ -1,4 +1,5 @@
 # Project: Women In Tech : Twitter Analysis
+https://github.com/WooTechnology/womenInTechTwitterAnalysis/wiki
 ## Description:
 
 This project involves mining of developer data from twitter, processing it to find answers to the following questions:
