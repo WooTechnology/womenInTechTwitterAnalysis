@@ -6,7 +6,14 @@ This project involves mining of developer data from twitter, processing it to fi
 
 What is the total number of male vs female vs non binary genders who indicate their interest in technology?
 
-What is the above division by different geographical regions?
+![image](https://user-images.githubusercontent.com/41102775/54380970-a487d880-46b2-11e9-85a7-5b5e7cf7a02a.png)
+
+
+
+
+What is the above division by different geographical regions?  
+![image](https://user-images.githubusercontent.com/41102775/54381052-d436e080-46b2-11e9-8db6-0313cc392367.png)
+
 
 What is the total number of male vs female vs non binary genders who are programmers?
 
